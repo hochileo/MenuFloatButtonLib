@@ -1,0 +1,25 @@
+<resources>
+    <dimen name="fab_size_normal0">70dp</dimen>
+    <dimen name="fab_size_normal1">70dp</dimen>
+    <dimen name="fab_size_normal2">70dp</dimen>
+    <dimen name="fab_size_normal3">85dp</dimen>
+    <dimen name="fab_size_normal4">100dp</dimen>
+    <dimen name="fab_size_normal5">55dp</dimen>
+
+    <dimen name="fab_icon_size0">30dp</dimen>
+    <dimen name="fab_icon_size1">30dp</dimen>
+    <dimen name="fab_icon_size2">46dp</dimen>
+    <dimen name="fab_icon_size3">50dp</dimen>
+    <dimen name="fab_icon_size4">55dp</dimen>
+
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+
+    <dimen name="fab_stroke_width">1dp</dimen>
+
+    <dimen name="fab_actions_spacing">8dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+</resources>
